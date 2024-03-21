@@ -1,0 +1,6 @@
+@MiPrimerWebAPI_HostAddress = http://localhost:5022
+
+GET {{MiPrimerWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
